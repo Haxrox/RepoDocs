@@ -18,7 +18,7 @@ Type: Coding
 
 # Cheat Sheet
 
-[github-git-cheat-sheet.pdf](Git%20Docs%204b940d8c94434adbb196abf2ccf8b9ff/github-git-cheat-sheet.pdf)
+[github-git-cheat-sheet.pdf](github-git-cheat-sheet.pdf)
 
 [GitHub Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 

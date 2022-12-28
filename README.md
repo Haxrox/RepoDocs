@@ -1,18 +1,17 @@
 # Git Docs
 
-Last edited time: December 28, 2022 11:12 AM
-Type: Coding
+View on [Notion](https://haxrox.notion.site/Git-Docs-4b940d8c94434adbb196abf2ccf8b9ff)
 
 <aside>
-ℹ️ Git is a version control system that allows developers to collaborate on projects and keep track of changes. GitHub is a hosting platform for version control and collaboration on projects.
+Git is a version control system that allows developers to collaborate on projects and keep track of changes. GitHub is a hosting platform for version control and collaboration on projects.
 
 </aside>
 
-## Git Commands Docs
+# Git Commands Docs
 
 [Reference](https://git-scm.com/docs)
 
-## GitHub Docs
+# GitHub Docs
 
 [GitHub.com Help Documentation](https://docs.github.com/en)
 
